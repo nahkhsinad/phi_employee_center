@@ -1,0 +1,28 @@
+/* Custom styles for the Employee Centre app */
+
+.stApp {
+    font-family: 'Arial', sans-serif;
+}
+
+.stButton>button {
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.stSelectbox>div>div>div {
+    background-color: #f0f2f6;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 5px;
+}
+
+.stDateInput>div>div>input {
+    border-radius: 5px;
+}
+
+.stFileUploader>div>div>button {
+    border-radius: 20px;
+}
+
+/* Add more custom styles as needed */

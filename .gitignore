@@ -1,3 +1,5 @@
+database/employee_center.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

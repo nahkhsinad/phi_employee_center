@@ -25,4 +25,22 @@
     border-radius: 20px;
 }
 
+.css-1aumxhk {
+    padding: 0.5rem;
+}
+
+.logout-button {
+    font-size: 16px;
+    padding: 0.5rem 1rem;
+    background-color: #ff4b4b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logout-button:hover {
+    background-color: #ff1a1a;
+}
+
 /* Add more custom styles as needed */
